@@ -1,0 +1,8 @@
+2 Files
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\bin\Debug\PDFMerge.exe -merge "C:\\workspace\\PDFMergeLocal\\PDFmerge\\PDFMerge\\PDFMerge\\PDFsOriginal\\flrw_test-png-A3_01.pdf" "C:\\workspace\\PDFMergeLocal\\PDFmerge\\PDFMerge\\PDFMerge\\PDFsOriginal\\Musternotfallplan.pdf" -out "C:\\workspace\\PDFMergeLocal\\PDFmerge\\PDFMerge\\PDFMerge\\PdfsMerged\\{0}.pdf"
+
+
+All
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\bin\Debug\PDFMerge.exe -mergeAll "C:\\workspace\\PDFMergeLocal\\PDFmerge\\PDFMerge\\PDFMerge\\PDFsOriginal" -out "C:\\workspace\\PDFMergeLocal\\PDFmerge\\PDFMerge\\PDFMerge\\PdfsMerged\\merged.pdf"
+
+-portfolio (wie -merge)

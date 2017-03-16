@@ -1,0 +1,8 @@
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\bin\Debug\PDFMerge.exe.config
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\obj\Debug\PDFMerge.csprojResolveAssemblyReference.cache
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\bin\Debug\PDFMerge.exe
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\bin\Debug\PDFMerge.pdb
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\bin\Debug\itextsharp.dll
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\bin\Debug\itextsharp.xml
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\obj\Debug\PDFMerge.exe
+C:\workspace\PDFMergeLocal\PDFmerge\PDFMerge\PDFMerge\obj\Debug\PDFMerge.pdb
